@@ -1,0 +1,4 @@
+customer_id,segment_name,recency,frequency,monetary,support_tickets,refund_rate,event_count,campaign_count
+1001,Champions,5,12,12500,0,0.00,120,4
+1002,At-Risk,90,3,2500,1,0.10,15,2
+1003,High-Value Unhappy,12,10,15000,8,0.25,85,5
